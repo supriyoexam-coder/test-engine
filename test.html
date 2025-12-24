@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Online Test</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+
+  <!-- =========================
+       PAUSE OVERLAY (MUST BE INSIDE BODY)
+  ========================== -->
+  <div id="pauseOverlay" class="pause-overlay" style="display:none;">
+    <div class="pause-box">
+      <h2>Test Paused</h2>
+      <p>Click resume to continue the test</p>
+      <button onclick="resumeTest()" class="btn-primary">Resume Test</button>
+    </div>
+  </div>
+
+  <!-- =========================
+       HEADER
+  ========================== -->
+  <header class="test-header">
+    <div class="test-title" id="testTitle">TEST</div>
+    <div class="test-owner">
+      Pro Supriyo
+    </div>
+
+    <div class="test-meta" id="testMeta">
+      <span id="questionCount">0 Questions</span>
+      <span id="timer">00:00</span>
+      <button id="pauseBtn" onclick="pauseTest()" class="btn-secondary">
+        Pause
+      </button>
+    </div>
+
+  </header>
+
+  <!-- =========================
+       MAIN TEST AREA
+  ========================== -->
+  <main class="test-container">
+
+    <div class="test-scroll-area">
+
+      <div class="question-box">
+        <div class="question-number" id="questionNumber">Q1.</div>
+        <div class="question-text" id="questionText">
+          Question text will appear here
+        </div>
+      </div>
+
+      <div class="options-box" id="optionsBox">
+        <!-- options injected by JS -->
+      </div>
+
+    </div>
+
+  </main>
+
+  <!-- =========================
+       FIXED FOOTER
+  ========================== -->
+  <div class="fixed-footer">
+    <button id="prevBtn" class="btn-secondary">Previous</button>
+    <button id="clearBtn" class="btn-secondary">Clear</button>
+    <button id="nextBtn" class="btn-primary">Next</button>
+    <button id="homeBtn" class="btn-secondary" style="display:none;">
+      Home
+    </button>
+    <button id="submitBtn" class="btn-submit">
+      Submit
+    </button>
+
+  </div>
+
+
+  <!-- =========================
+       RESULT OVERLAY
+  ========================== -->
+  <section class="result-container" id="resultContainer">
+    <div class="result-card">
+      <h2>Test Result</h2>
+
+      <div class="result-stats">
+        <div class="stat">
+          <span class="stat-value" id="resTotal">0</span>
+          <span class="stat-label">Total</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="resAttempted">0</span>
+          <span class="stat-label">Attempted</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="resCorrect">0</span>
+          <span class="stat-label">Correct</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="resAccuracy">0</span>
+          <span class="stat-label">Accuracy %</span>
+        </div>
+      </div>
+
+      <div class="result-actions">
+        <button onclick="restartTest()" class="btn-primary">Restart Test</button>
+        <button onclick="reviewAnswers()" class="btn-secondary">Review Answers</button>
+      </div>
+    </div>
+  </section>
+  <!-- SUBMIT CONFIRMATION POPUP -->
+  <div id="submitConfirmOverlay" class="pause-overlay" style="display:none;">
+    <div class="pause-box">
+      <h2>Submit Test?</h2>
+      <p>Are you sure you want to submit this test?</p>
+      <div style="display:flex; gap:12px; justify-content:center;">
+        <button class="btn-secondary" onclick="cancelSubmit()">Cancel</button>
+        <button class="btn-submit" onclick="confirmSubmit()">Yes, Submit</button>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- =========================
+       JS (LOAD LAST)
+  ========================== -->
+  <script src="js/engine.js"></script>
+
+</body>
+
+</html>
