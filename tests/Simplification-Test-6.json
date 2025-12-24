@@ -1,0 +1,555 @@
+{
+    "durationMinutes": 20,
+    "questions": [
+        {
+            "question": "12.5% of 45% of 480 + 957÷29 = ? - 14 × 15",
+            "options": [
+                "260",
+                "270",
+                "280",
+                "230",
+                "210"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "(24 × 56) + (120 × 6) - (8 × 40) + (56 × 7) = ?",
+            "options": [
+                "1236",
+                "1864",
+                "2136",
+                "2040",
+                "None of these"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "(13310 ÷ 11) + (3÷7) of 875 + 17² = 40% of ?",
+            "options": [
+                "4685",
+                "5270",
+                "4340",
+                "6095",
+                "None of these"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "185% of 120 - 105% of 80 + 3174 ÷ √529 = ? × 69",
+            "options": [
+                "4",
+                "9",
+                "12",
+                "8",
+                "7"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "2189 + 892 - 1207 - ? = 210% of 820 + √1444 × 4",
+            "options": [
+                "0",
+                "4",
+                "2",
+                "1",
+                "-4"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "(740 + ?) × 35 - 12² = 145% of 60 + 97 × √49",
+            "options": [
+                "-689",
+                "-692",
+                "-714",
+                "-726",
+                "-729"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "18 × 15 + 20% of 450 - √256 × 3 = 48% of ?",
+            "options": [
+                "620",
+                "650",
+                "670",
+                "680",
+                "700"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "? × 29 + 290 = 135% of 120 + √4489 × 18 - 9 × 7",
+            "options": [
+                "35",
+                "38",
+                "42",
+                "48",
+                "45"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "43% of 800 + 50% of 74 - 350% of 112 + 5% of 7880 = ?",
+            "options": [
+                "424",
+                "415",
+                "398",
+                "383",
+                "395"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "question": "160 ÷ 4 + 125% of 200 + 400% of 50 = ? + 290",
+            "options": [
+                "150",
+                "170",
+                "200",
+                "220",
+                "160"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "60% of 300 - 180 ÷ 6 + (2÷3) × 150 - 2.5 × 80 = ?",
+            "options": [
+                "50",
+                "40",
+                "60",
+                "70",
+                "30"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "75% of 180 + 150% of 110 - √169 × 12 = ? - 116",
+            "options": [
+                "220",
+                "260",
+                "270",
+                "210",
+                "240"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "75% of 336 + 60% of 160 - 35% of 140 = ? × √169",
+            "options": [
+                "17",
+                "19",
+                "21",
+                "23",
+                "24"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "question": "80% of 320 + 30% of √12100 + ?% of 40 = √9 × 443",
+            "options": [
+                "2300",
+                "2400",
+                "2600",
+                "2800",
+                "2700"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "28.57% of 231 + 20% of 60 + 57.14% of 21 = ?",
+            "options": [
+                "90",
+                "114",
+                "72",
+                "66",
+                "81"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "80% of 420 + (64 ÷ 136) × (17 ÷ √16) + ? = 15 × 25",
+            "options": [
+                "33",
+                "36",
+                "34",
+                "37",
+                "38"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "question": "720 ÷ 8 + 25% of 680 + 15% of 60 + 30% of 40 = ?",
+            "options": [
+                "267",
+                "276",
+                "281",
+                "296",
+                "300"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "65% of 400 + 30% of 510 - 125% of 220 = ?",
+            "options": [
+                "125",
+                "138",
+                "132",
+                "124",
+                "128"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "27 - 31% of 310 + 78% of 350 = ?",
+            "options": [
+                "203.9",
+                "245.6",
+                "178.5",
+                "193.7",
+                "286.4"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "(3÷5) of (12÷17) of 14025 - ? + 48% of 650 = 58",
+            "options": [
+                "6194",
+                "5428",
+                "5282",
+                "5816",
+                "6070"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "2717 ÷ (22% of 650) = 35 × 5³÷₇ of (17 ÷ ?)",
+            "options": [
+                "150",
+                "180",
+                "170",
+                "210",
+                "None of these"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "56% of 4250 + 36% of 750 + 23% of ? = 2788",
+            "options": [
+                "600",
+                "450",
+                "500",
+                "750",
+                "None of these"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "14.28% of 210 + 42.851% of 350 + 71.428% of 140 = ?",
+            "options": [
+                "220",
+                "240",
+                "260",
+                "280",
+                "320"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "question": "(2÷13) of 715 + (4÷11) of 7150 = ? × 2 + 12²",
+            "options": [
+                "1357",
+                "1562",
+                "1283",
+                "1479",
+                "None of these"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "1120 ÷ 7 + (4÷9) of 1890 + 18% of 500 = ?² + 66",
+            "options": [
+                "32",
+                "48",
+                "56",
+                "64",
+                "None of these"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "(3÷8) of (48÷21) of 105 = 14% of 600 + (2÷7) of ?",
+            "options": [
+                "35",
+                "28",
+                "21",
+                "49",
+                "None of these"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "5⅗ - 3⁷÷₁₀ + 8⁴÷₁₅ - 6⅘ = ? - 7⁷÷₁₅",
+            "options": [
+                "11¾",
+                "10⅚",
+                "9⅔",
+                "12⁷÷₁₅",
+                "None of these"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "17 × 4 × (45 - 38 + 5) + 312 ÷ 4 ÷ 3 - 28² = ?",
+            "options": [
+                "72",
+                "66",
+                "84",
+                "58",
+                "None of these"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "question": "⅓ + 7⅕ - 2⁷÷₁₀ - 3⅘ = ? - 4⅚",
+            "options": [
+                "11⅗",
+                "10¹³÷₁₅",
+                "9⁷÷₁₀",
+                "12⅚",
+                "None of these"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "√2916 + (12167)⅓ + 35 = ? - 11²",
+            "options": [
+                "230",
+                "180",
+                "160",
+                "210",
+                "None of these"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "question": "1÷9 of 6561 - 4÷5 of 1350 + 25% of 8000 = 1÷8 of 4800 + ?",
+            "options": [
+                "849",
+                "949",
+                "1049",
+                "749",
+                "None of these"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "45% of 900 - 30% of 750 + 60% of 1450 = ? - 1800",
+            "options": [
+                "3460",
+                "3220",
+                "3050",
+                "2850",
+                "None of these"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "question": "456 × 232 - 412 × 156 + 5400 - 22 × 18 = ? - 1200",
+            "options": [
+                "39988",
+                "35524",
+                "43242",
+                "47724",
+                "None of these"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "question": "?% of 300 + 45% of 440 = ?÷7 of 63 - 3÷17 of 578",
+            "options": [
+                "50",
+                "40",
+                "45",
+                "80",
+                "None of these"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "(3÷8) of (2÷3) of 72 + 12³ - 12% of 350 = ? + 120",
+            "options": [
+                "1584",
+                "1672",
+                "1456",
+                "1328",
+                "None of these"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "36% of 4500 - 45% of 1020 + 32% of 1800 = ?",
+            "options": [
+                "1347",
+                "1417",
+                "1737",
+                "1527",
+                "None of these"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "14% of (5÷13) of (27÷42) of 1820 + ∛195112 = (11÷13) of ?",
+            "options": [
+                "143",
+                "164",
+                "182",
+                "215",
+                "None of these"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "14% of 750 - (3÷8) of (5÷7) of 280 = ? + 150 ÷ 3 ÷ 5",
+            "options": [
+                "40",
+                "50",
+                "20",
+                "30",
+                "None of these"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "4488 ÷ 11 + (7÷15) of 2100 + 35% of 1200 = ?² - 41",
+            "options": [
+                "47",
+                "43",
+                "45",
+                "49",
+                "None of these"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "(2720 ÷ 34) + 40% of 125 = ? + √121 × 5 - √225",
+            "options": [
+                "80",
+                "90",
+                "70",
+                "78",
+                "84"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "40% of 220 + 636 ÷ √2809 + 15 × 12 = ?",
+            "options": [
+                "250",
+                "280",
+                "320",
+                "290",
+                "350"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "(8÷9) of (27÷32) of (8÷15) of 15% of 1200 = ?",
+            "options": [
+                "72",
+                "84",
+                "96",
+                "58",
+                "None of these"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "(? )² = (8³ + 12³) % of 80 + 37.5% of 3280 - 1279 + (7 × 3)",
+            "options": [
+                "32",
+                "38",
+                "48",
+                "42",
+                "None of these"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "question": "65% of 280 + 37.5% of 240 = ?² - √289",
+            "options": [
+                "15",
+                "17",
+                "19",
+                "21",
+                "13"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "25% of 1280 - 20% of 675 - 10% of 780 = ?",
+            "options": [
+                "97",
+                "117",
+                "107",
+                "127",
+                "113"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "120% of 175 + 40% of 280 = ? + √14641",
+            "options": [
+                "201",
+                "208",
+                "205",
+                "211",
+                "198"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "50% of 480 + ?% of 400 = 20% of 2800",
+            "options": [
+                "40",
+                "50",
+                "60",
+                "70",
+                "80"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "question": "55% of 280 + 14 × √36 - 60% of 220 = ?",
+            "options": [
+                "106",
+                "110",
+                "114",
+                "102",
+                "98"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "80% of 240 + 25% of 144 - 40% of 220 = ?",
+            "options": [
+                "130",
+                "140",
+                "110",
+                "120",
+                "150"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "42% of 250 + 24% of 400 + 437 ÷ 23 = ?",
+            "options": [
+                "225",
+                "220",
+                "230",
+                "240",
+                "235"
+            ],
+            "correctIndex": 1
+        }
+    ]
+}
